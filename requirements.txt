@@ -1,5 +1,5 @@
+
 cvxopt
-image
 ipython
 ipythonblocks
 ipywidgets
@@ -8,7 +8,7 @@ keras
 matplotlib
 networkx
 numpy
-opencv-python
+opencv
 pandas
 pillow
 pytest-cov

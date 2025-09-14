@@ -76,3 +76,8 @@ target/
 # for macOS
 .DS_Store
 ._.DS_Store
+
+# should be not leaked
+books/
+labs/
+.vscode/
