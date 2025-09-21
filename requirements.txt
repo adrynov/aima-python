@@ -8,7 +8,7 @@ keras
 matplotlib
 networkx
 numpy
-opencv
+opencv-python
 pandas
 pillow
 pytest-cov
